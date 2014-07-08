@@ -1,0 +1,22 @@
+#wrapper {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ccc;
+	border-radius: 10px;
+	padding: 20px;
+	text-align: center;
+}
+#wrapper table {
+	margin: 0 auto;
+}
+#wrapper table, td, tr {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+input {
+	border: 1px solid #000;
+	background-color: #eee;
+}
+h4 {
+	text-align: center;
+}
